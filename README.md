@@ -12,4 +12,4 @@
   <img align="center" alt="Gis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-<img align="right" width="58%" height="500" src="https://user-images.githubusercontent.com/72233926/157355899-e3ac56ea-59f2-4e63-8d1d-005bc10ab458.gif">
+
