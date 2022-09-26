@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img align="center" alt="Gis-Foto" height="150" src="https://cdn.discordapp.com/attachments/968584770839781426/1023757586819985428/fotinho2.JPG">
+  <img margin-left="50px" alt="Gis-Foto" height="150" src="https://cdn.discordapp.com/attachments/968584770839781426/1023757586819985428/fotinho2.JPG">
 </div>
   
 
