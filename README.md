@@ -1,4 +1,4 @@
-<img align="right" alt="Gis-Foto" width="200" src="https://cdn.discordapp.com/attachments/968584770839781426/1023757586819985428/fotinho2.JPG">
+<img align="right" alt="Gis-Foto" width="200" src="https://cdn.discordapp.com/attachments/968584770839781426/1026262182264045640/20220925_221824-ANIMATION.gif">
 
 ### Oii, eu sou a Gislaine!!
 * Sou estudante de Desenvolvimento de Sistemas, na Etec de Guaianazes.
