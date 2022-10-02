@@ -1,8 +1,6 @@
 ### Oii!! Eu sou a Gislaine!
 
-<div align="center">
-<img alt="Gis-Foto" height="400em" src="https://cdn.discordapp.com/attachments/968584770839781426/1023757586819985428/fotinho2.JPG">
-</div>
+<img align="right" alt="Gis-Foto" width="200" src="https://cdn.discordapp.com/attachments/968584770839781426/1023757586819985428/fotinho2.JPG">
 
 <div align="center">
   <a href="https://github.com/Gislaine09">
