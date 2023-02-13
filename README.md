@@ -4,7 +4,6 @@
 * Terminei em 2022 o ensino médio integrado ao curso de Desenvolvimento de Sistemas, na Etec de Guaianazes
 * Em agosto de 2023, irei começar facul de Análise e Desenvolvimento de Sistemas na SPTECH
 
-
 <div>
   <a href="https://github.com/Gislaine09">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gislaine09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
