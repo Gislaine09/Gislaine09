@@ -1,7 +1,9 @@
 <img align="right" alt="Gis-Foto" width="200" src="https://cdn.discordapp.com/attachments/968584770839781426/1026262182264045640/20220925_221824-ANIMATION.gif">
 
-### Oii, eu sou a Gislaine!!
-* Sou estudante de Desenvolvimento de Sistemas, na Etec de Guaianazes.
+### Oii, eu sou a Gislaine!
+* Terminei em 2022 o ensino médio integrado ao curso de Desenvolvimento de Sistemas, na Etec de Guaianazes
+* Em agosto de 2023, irei começar facul de Análise e Desenvolvimento de Sistemas na SPTECH
+
 
 <div>
   <a href="https://github.com/Gislaine09">
