@@ -16,7 +16,8 @@
   <img align="center" alt="Gis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gis-Boot" width="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  
+   <img align="right" alt="Gis-Foto" width="200"  src="https://cdn.discordapp.com/attachments/968584770839781426/1026262182264045640/20220925_221824-ANIMATION.gif">
+
  </div>
 
   ##
